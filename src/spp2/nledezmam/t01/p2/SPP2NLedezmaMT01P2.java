@@ -17,6 +17,8 @@ public class SPP2NLedezmaMT01P2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //NORMA ALEJANDRA LEDEZMA MARTINEZ - IIS
+        //A01411460
         System.out.println("Calculadora de perímeto y superficie de un rectángulo");
         //Variables
         double base, altu, sup, per; 
